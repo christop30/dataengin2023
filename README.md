@@ -25,5 +25,6 @@ Create a Schema in Google Cloud
 
 ![image](https://user-images.githubusercontent.com/31247855/215330109-1cd77003-750c-449f-a3af-fd86375ff086.png)
 
-#If run airflow locally install 
+# If you run airflow locally install 
+
 pip install google-cloud-bigquery[pandas,pyarrow]
