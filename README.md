@@ -1,5 +1,10 @@
 Peer Review for DE
 
+Description Problem
+
+We need to take Data from Covid confirm cases from https://github.com/owid/covid-19-data
+add some field and load ina BigQuery (Google Cloud)
+
 # airflow-dag-covid19
 Basic data pipeline to handle covid19 data sources utilizing Python and Airlflow.
 
@@ -20,6 +25,8 @@ owid_covid_dag/
 --------------load.py
 
 Ghrap on Airflow
+
+We have 2 task run_etl and check_bigquery
 
 ![image](https://user-images.githubusercontent.com/31247855/215329871-2b46d5ee-bbc1-4642-8bdf-a767516985f6.png)
 
