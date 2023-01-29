@@ -18,3 +18,9 @@ owid_covid_dag/
 Ghrap on Airflow
 
 ![image](https://user-images.githubusercontent.com/31247855/215329871-2b46d5ee-bbc1-4642-8bdf-a767516985f6.png)
+
+Create a Schema in Google Cloud
+
+![image](https://user-images.githubusercontent.com/31247855/215330175-1fde5a42-2126-4c64-ac1c-b432067695cf.png)
+
+![image](https://user-images.githubusercontent.com/31247855/215330109-1cd77003-750c-449f-a3af-fd86375ff086.png)
