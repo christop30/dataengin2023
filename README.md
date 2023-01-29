@@ -5,14 +5,18 @@ Basic data pipeline to handle covid19 data sources utilizing Python and Airlflow
 
 ## Setup Steps
 
-1 pip3 install airflow
+1. pip3 install airflow
 
 2. estructure in dag
 
 owid_to_bq.py
+
 owid_covid_dag/
+
 --------------extract.py
+
 --------------transform.py
+
 --------------load.py
 
 Ghrap on Airflow
@@ -25,6 +29,6 @@ Create a Schema in Google Cloud
 
 ![image](https://user-images.githubusercontent.com/31247855/215330109-1cd77003-750c-449f-a3af-fd86375ff086.png)
 
-# If you run airflow locally install 
+## If you run airflow locally install 
 
 pip install google-cloud-bigquery[pandas,pyarrow]
