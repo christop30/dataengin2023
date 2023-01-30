@@ -39,3 +39,9 @@ Create a Schema in Google Cloud
 ## If you run airflow locally install 
 
 pip install google-cloud-bigquery[pandas,pyarrow]
+
+## Set your credentials in Google Cloud 
+
+![image](https://user-images.githubusercontent.com/31247855/215484617-63c55da4-ad4b-4cd0-a3e0-c7a4906fbabd.png)
+
+In load.py you line 12 you need to set your google cloud environment   table_id = "PROJECTNAME.DATASETNAME.TABLENAME"
