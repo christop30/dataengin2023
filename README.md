@@ -52,4 +52,17 @@ Now we check our data in BigQuery
 
 ![image](https://user-images.githubusercontent.com/31247855/216761416-70363f3c-5e59-4315-83b8-1810cdf0164a.png)
 
+BigQuery Data
+
+![image](https://user-images.githubusercontent.com/31247855/217383402-ce7109e7-fb4f-47ce-86f5-645ba80b38c1.png)
+
+Data Studio Screenshots (Feel free to use the Dashboard in the next link https://lookerstudio.google.com/reporting/e3a1df84-4abd-4ed4-ba4a-8c606aeef06d )
+
+![image](https://user-images.githubusercontent.com/31247855/217383512-a1c8122c-da2f-429c-b0a6-22e4671e256a.png)
+
+![image](https://user-images.githubusercontent.com/31247855/217383847-2d777532-9a6e-4ff4-bb26-70dadbff4146.png)
+
+![image](https://user-images.githubusercontent.com/31247855/217383925-4bb3cf2b-ada5-4d0b-ae7d-adc0b130dd54.png)
+
+
 
