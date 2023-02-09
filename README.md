@@ -46,7 +46,7 @@ pip install google-cloud-bigquery[pandas,pyarrow]
 
 In load.py you line 12 you need to set your google cloud environment   table_id = "PROJECTNAME.DATASETNAME.TABLENAME"
 
-![image](https://user-images.githubusercontent.com/31247855/216761403-59fc963d-e8cb-437e-a144-a0ad34c93d29.png)
+![image](https://user-images.githubusercontent.com/31247855/217837299-99500d81-0eca-4590-8a60-6330779fbed8.png)
 
 Now we check our data in BigQuery
 
